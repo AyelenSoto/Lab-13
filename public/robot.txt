@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://localhost:3001/api/sitemap
+Sitemap: [https://lab-13-three.vercel.app/api/sitemap](https://lab-13-three.vercel.app/api/sitemap)
