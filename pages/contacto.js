@@ -13,6 +13,7 @@ export default function Contacto() {
         <meta property="og:description" content="Escríbenos tus consultas sobre proyectos en Next.js." />
         <meta property="og:image" content="/images/screamcat.png" />
         <meta property="og:type" content="website" />
+        <meta name="google-site-verification" content="-ZpV3d8FBdh6rMRTZ00H5CgOYXzJLSfF7aaeFWOdXic" />
       </Head>
 
       <main className="mx-auto max-w-4xl px-6 py-12 sm:py-20">
